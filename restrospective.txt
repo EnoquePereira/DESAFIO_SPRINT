@@ -1,0 +1,14 @@
+SPRINT RETROSPECTIVE
+
+O que funcionou bem:
+- Versionamento eficiente com Git
+- Criação e manipulação de branches
+- Comunicação clara dos requisitos
+
+O que pode melhorar:
+- Entendimento inicial do fluxo Git
+- Estimativa de tempo para tarefas
+
+Sugestões:
+- Praticar mais comandos Git
+- Revisar documentação antes de iniciar

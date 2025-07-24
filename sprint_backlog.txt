@@ -1,0 +1,11 @@
+SPRINT BACKLOG
+
+Histórias selecionadas para este sprint:
+
+1. ID 1 - Alterar cor dos nomes de veículos no index.html
+   - Esforço estimado: 10 minutos
+   - Status: Concluído
+
+3. ID 3 - Atualizar descrição dos links no contato.html
+   - Esforço estimado: 10 minutos
+   - Status: Concluído
